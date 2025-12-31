@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Turning Up",
+  "base_artist": "嵐",
+  "createdAt": "2025-12-31T08:20:37.908025Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Turning Up The Radio",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/01_Turning_Up_The_Radio_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Turning Up",
+      "artist": "James Reid",
+      "has_synced": true,
+      "path": "select/02_Turning_Up_James_Reid.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Turning Up",
+      "artist": "Famous Dex",
+      "has_synced": false,
+      "path": "select/03_Turning_Up_Famous_Dex.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Turning Up the Noise",
+      "artist": "The Methadones",
+      "has_synced": false,
+      "path": "select/04_Turning_Up_the_Noise_The_Methadones.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Turning Up the Bottle",
+      "artist": "Rittz",
+      "has_synced": true,
+      "path": "select/05_Turning_Up_the_Bottle_Rittz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Turning Up The Radio",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/06_Turning_Up_The_Radio_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Turning Up The Flowers",
+      "artist": "Rosa Walton",
+      "has_synced": true,
+      "path": "select/07_Turning_Up_The_Flowers_Rosa_Walton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "turning up the heat",
+      "artist": "vanessa amorosi",
+      "has_synced": false,
+      "path": "select/08_turning_up_the_heat_vanessa_amorosi.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Turning Up!",
+      "artist": "Team SQ",
+      "has_synced": false,
+      "path": "select/09_Turning_Up!_Team_SQ.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Turning Up (R3HAB Remix)",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/10_Turning_Up_(R3HAB_Remix)_ARASHI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Everything's Turning Up Down Again",
+      "artist": "Wire Train",
+      "has_synced": false,
+      "path": "select/11_Everything's_Turning_Up_Down_Again_Wire_Train.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Turning Up",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/12_Turning_Up_嵐.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Turning Up (R3HAB Remix)",
+      "artist": "嵐 & R3HAB",
+      "has_synced": true,
+      "path": "select/13_Turning_Up_(R3HAB_Remix)_嵐_&_R3HAB.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Turning Up",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/14_Turning_Up_嵐.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Turning Up The Flowers (Paused)",
+      "artist": "Rosa Walton",
+      "has_synced": true,
+      "path": "select/15_Turning_Up_The_Flowers_(Paused)_Rosa_Walton.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Turning Up The Radio (Album Version)",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/16_Turning_Up_The_Radio_(Album_Version)_Weezer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Turning Up",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_Turning_Up_嵐.txt"
+    }
+  ]
+}
